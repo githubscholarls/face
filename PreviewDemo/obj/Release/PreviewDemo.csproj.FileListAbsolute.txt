@@ -1,0 +1,22 @@
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe.config
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.PreSet.resources
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+E:\goole\CH-HCNetSDKV6.1.6.3_build20200925_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.exe
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe.config
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.exe
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.PreSet.resources
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+E:\goole\海康威视SDK\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\bin\PreviewDemo.exe.config
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\obj\Release\PreviewDemo.csprojAssemblyReference.cache
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\obj\Release\PreviewDemo.PreSet.resources
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.cache
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\obj\Release\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\Users\丶scholar丶\Desktop\人脸识别\Face4.0x.0WinformFace整合到demo\PreviewDemo\obj\Release\PreviewDemo.exe
